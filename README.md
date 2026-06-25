@@ -27,7 +27,8 @@ I am a passionate and eager Java FullStack Developer, ready to take on challenge
 
 
 ### Backend
-![CoreJava](<img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/d2d8c5fa-7f15-4f7c-8eee-f5fdc295d46d" /> ) 
+![CoreJava](<img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/417f8cdf-632f-4ed1-97f4-97805cea1fd6" />
+ ) 
 ![Spring Boot](<img width="93" height="20" alt="image" src="https://github.com/user-attachments/assets/6be1519e-aea3-44ea-aec8-6e34a7465e04" /> )
 ![MySQL](<img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/0ada365b-8363-4978-958e-1fecf5172340" /> ) 
 ![JDBC](<img width="39" height="20" alt="image" src="https://github.com/user-attachments/assets/40c6906f-cbfc-425a-ad2f-c8e208144072" /> )
