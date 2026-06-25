@@ -26,16 +26,17 @@ I am a passionate and eager Java FullStack Developer, ready to take on challenge
 ![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=flat&logo=react&logoColor=white)
 
 ### Backend
-![Core Java]() 
-![Spring Boot]() 
-![MySQL]() 
-![JDBC]()
+![Core Java](https://img.shields.io/badge/Core_Java-%2338A3A3.svg?style=flat&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) 
+![JDBC](https://img.shields.io/badge/JDBC-%23F0DB4F.svg?style=flat&logo=oracle&logoColor=black)
 
 ### Tools
-![JSP]() 
-![REST APIs]() 
-![Exception Handling]() 
-![Collections]()
+![JSP](https://img.shields.io/badge/JSP-%23000.svg?style=flat&logoColor=white) 
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%2391CA4E.svg?style=flat&logoColor=white) 
+![Exception Handling](https://img.shields.io/badge/Exception%20Handling-%23D1EAFF.svg?style=flat&logoColor=black) 
+![Collections](https://img.shields.io/badge/Collections-%23F73B1E.svg?style=flat&logoColor=white)
+
 ## Linkedin Link
 [![LinkedIn]( https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=social&logo=linkedin&logoColor=white )]( https://www.linkedin.com/in/srivihar )
 
