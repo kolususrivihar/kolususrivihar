@@ -20,10 +20,10 @@ I am a passionate and eager Java FullStack Developer, ready to take on challenge
 
 ## 🛠️ Tech Stack
 ### Frontend
-![HTML5](<img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/a6ee712d-6fa3-4156-890c-87940105801b" />
-) ![CSS3](<img width="39" height="20" alt="image" src="https://github.com/user-attachments/assets/619921ad-33ea-4179-adf6-c3a795c67d74" />
-) ![JavaScript](<img width="85" height="20" alt="image" src="https://github.com/user-attachments/assets/efa95ffa-a79d-4f28-ac45-3fdc2a952665" />
-) ![React](<img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/5a3f0237-3c3c-4c91-897a-efe52984b7a0" />
+![HTML5](
+) ![CSS3](
+) ![JavaScript](
+) ![React](
 )
 
 ### Backend
