@@ -2,8 +2,7 @@
 ![Profile Views]( https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME )
 
 # 👋 Hello, I'm KOLUSU KHAGA VENKATA SRI VIHAR
-<img src="
-" width="30px" alt="wave"/> 
+
 
 # 💻 Java FullStack Developer
 <p align="center">
